@@ -1,0 +1,11 @@
+    {
+    "name": "assignment-3",
+    "version": "1.0.0",
+    "description": "Node.js File System Assignment",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "author": "Aashika Pandey",
+    "license": "ISC"
+    }
